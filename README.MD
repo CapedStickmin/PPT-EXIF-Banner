@@ -14,7 +14,7 @@
 *   **专业外观**: 自动为图片添加阴影，横幅采用半透明设计，字体和布局经过精心排版。
 *   **高度可配置**: 用户可以轻松修改 Logo 路径、数据文件路径，并对横幅布局进行微调。
 
-![COMAC C909](.\images\c909.png)![Tachybaptus_ruficollis](.\images\Tachybaptus_ruficollis.png)![HongKong Route 1](.\images\Route_1.png)
+![COMAC C909](images\c909.png)![Tachybaptus_ruficollis](images\Tachybaptus_ruficollis.png)![HongKong Route 1](images\Route_1.png)
 
 ## 使用流程
 
