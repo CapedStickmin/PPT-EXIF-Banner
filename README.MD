@@ -1,3 +1,4 @@
+**[English](README_EN.MD)**
 
 # PowerPoint 照片参数横幅批量生成宏
 

@@ -1,3 +1,4 @@
+**[中文](README.MD)**
 # PowerPoint Batch Banner Generation Macro for Photo Parameters
 
 This is a PowerPoint VBA macro designed for photography enthusiasts and professionals. It can **batch process** multiple photos, automatically creating a new slide for each one and adding a professional, aesthetically pleasing banner with the photo's shooting parameters.
